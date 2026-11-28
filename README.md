@@ -292,7 +292,19 @@ The full AI-powered version currently runs locally using Ollama. The planned pub
 **Bhavitha Marikeeri**
 
 GitHub: https://github.com/BhavithaMarikeeri
+## 📸 Application Screenshots
 
+### 1. QueryMind AI Dashboard
+![QueryMind AI Dashboard](screenshots/dashboard.png)
+
+### 2. Natural Language to SQL Generation
+![Query Generator](screenshots/querygenerator.png)
+
+### 3. Query Execution Results
+![Query Results](screenshots/resultquery.png)
+
+### 4. Download Query Results
+[Download Sample Query Results (CSV)](screenshots/query_results.csv)
 ---
 
 *QueryMind AI – Making databases accessible through natural language.*
